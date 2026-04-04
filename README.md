@@ -1,0 +1,1 @@
+This repository will contain Excel files (projects) available for download, featuring analyses of various cases.
