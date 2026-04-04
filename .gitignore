@@ -1,0 +1,21 @@
+# Biblioteki i środowisko (to co najcięższe)
+.venv/
+venv/
+env/
+bin/
+lib/
+include/
+
+# Śmieci z Maca (te ukryte pliki, co robią bałagan)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Śmieci z Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pliki tymczasowe Jupyter Notebook (Twoje tutoriale)
+.ipynb_checkpoints
+.idea
