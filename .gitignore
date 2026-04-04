@@ -18,4 +18,4 @@ __pycache__/
 
 # Pliki tymczasowe Jupyter Notebook (Twoje tutoriale)
 .ipynb_checkpoints
-.idea
+.idea/
